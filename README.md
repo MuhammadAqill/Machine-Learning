@@ -15,14 +15,14 @@ A collection of classic Machine Learning algorithms implemented in Python, inclu
 2. Install dependencies (e.g., scikit-learn, pandas)—if any using:
    ```bash
    pip install scikit-learn pandas
-````
+   ````
 
 *(Adjust based on your actual imports.)*
-3\. Run a script from terminal:
+3. Run a script from terminal:
 
-```bash
-python DecisionTree.py
-```
+   ```bash
+   python DecisionTree.py
+   ```
 
 *(Similarly for other models.)*
 
