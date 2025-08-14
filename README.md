@@ -13,16 +13,16 @@ A collection of classic Machine Learning algorithms implemented in Python, inclu
 
 1. Make sure Python (3.x) is installed.
 2. Install dependencies (e.g., scikit-learn, pandas)—if any using:
-   ```bash
-   pip install scikit-learn pandas
-   ````
 
-*(Adjust based on your actual imports.)*
+```bash
+pip install scikit-learn pandas
+````
+
 3. Run a script from terminal:
 
-   ```bash
-   python DecisionTree.py
-   ```
+```bash
+python DecisionTree.py
+```
 
 *(Similarly for other models.)*
 
